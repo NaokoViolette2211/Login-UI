@@ -7,7 +7,7 @@ body {
 }
 
 .container-fluid {
-  background-image: url(img/deepsea.jpg);
+  background-image: url("img/deepsea.jpg");
   background-size: cover;
   background-position: center 55%;
   background-repeat: no-repeat;
